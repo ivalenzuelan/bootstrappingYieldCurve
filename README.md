@@ -42,4 +42,4 @@ Below is an example result of the bootstrapped yield curve:
 
 ## Author
 
-This project was developed by **Inigo**, as part of a hands-on fellowship in quantitative finance modeling.
+This project was developed as part of a hands-on fellowship in quantitative finance modeling with the Build Fellowship by OpenFundations.
